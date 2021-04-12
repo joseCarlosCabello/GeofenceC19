@@ -1,0 +1,2 @@
+rootProject.name = "Geofence_ahora_si"
+include ':app'

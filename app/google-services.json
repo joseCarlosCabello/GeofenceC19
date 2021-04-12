@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1080140005665",
+    "project_id": "geofence1-36aa4",
+    "storage_bucket": "geofence1-36aa4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080140005665:android:83f49fcaba72c73a7d7e60",
+        "android_client_info": {
+          "package_name": "com.example.geofence_ahora_si"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080140005665-looh3l2jv85vs041p9mn6e6dq3720o8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPXZ7oKBs9w_R7mkjKCymG6Ix6NsDM_jo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080140005665-looh3l2jv85vs041p9mn6e6dq3720o8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
